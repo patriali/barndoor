@@ -9,6 +9,7 @@ Emergency network isolation script for Linux systems.
 ```
 git clone https://github.com/patriali/barndoor.git
 cd barndoor
+chmod +x barndoor.sh
 sudo ./barndoor.sh
 
 # reboot to reverse isolation
